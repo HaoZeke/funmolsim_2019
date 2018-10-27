@@ -1,0 +1,41 @@
+- name: Jayant K. Singh
+  img: jksingh.jpg
+  place: IIT Kanpur
+  num: 1
+  site: "https://cnsjks.netlify.com"
+
+- name: Ganapathy Ayappa
+  img: gayap.png
+  place: IISc Bangalore
+  num: 2
+  site: "https://kgalabiisc.wixsite.com/kgalab"
+
+- name: Jhumpa Adhikari
+  img: jumpa.jpg
+  place: IIT Bombay
+  num: 3
+  site: "https://www.che.iitb.ac.in/online/faculty/jhumpa-adhikari"
+
+- name: Dr. Ethayaraja Mani
+  img: emani.jpg
+  place: IIT Madras
+  num: 4
+  site: "http://www.che.iitm.ac.in/~ethaya/"
+
+- name: Sandip Khan
+  img: skhan.jpg
+  place: IIT Patna
+  num: 5
+  site: "https://www.iitp.ac.in/index.php/departments/engineering/chemical-and-biochemical-engineering/people-chemical-and-biochemical-engg/faculty-cbe/1479-sandip-khan.html"
+
+- name: Pankaj Apte
+  img: papte.jpg
+  place: IIT Kanpur
+  num: 6
+  site: "https://www.iitk.ac.in/che/pa.htm"
+
+- name: Indranil Saha Dalal
+  img: isd.jpg
+  place: IIT Kanpur
+  num: 7
+  site: "https://www.iitk.ac.in/che/isd.htm"

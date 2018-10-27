@@ -1,0 +1,32 @@
+---
+layout: default
+title: Instructors
+slug: sponsors
+redirect_from:
+  - "/speakers/"
+---
+
+
+<!-- Team -->
+<div class="card-deck">
+<div class="row">
+{% assign items = site.data.instructors | sort: 'num' %}
+    {% for ins in items %}
+  <div class="card">
+    <img class="card-img-top" src="{{ site.baseurl }}/assets/img/instructors/{{ ins.img }}" alt="Card image cap">
+    <div class="card-body">
+      <h5 class="card-title">{{ ins.name }}</h5>
+      <h6>{{ ins.place }}</h6>
+      <p class="card-text">{{ ins.text }}</p>
+    </div>
+    <div class="card-footer text-center">
+        <a href="{{ ins.site }}"><i class="fa fa-3x fa-link" aria-hidden="true"></i></a>
+    </div>
+  </div>
+  {% if ins.num == 4 %}
+</div>
+<div class="row p-3 md-3">
+    {% endif %}
+  {% endfor %}
+</div>
+</div>
