@@ -1,6 +1,6 @@
-title:              "Sustain Summit 2018"
-short_title:        "Sustain 2018"
-description:        "A one-day event for Open Source sustainers"
+title:              "Fundamentals of Molecular Simulations"
+short_title:        "FunMolSim 2019"
+description:        "A five day learning extravaganza."
 
 markdown:           kramdown
 
@@ -27,7 +27,7 @@ sass:
 baseurl:            ""
 port:               8000
 host:               "127.0.0.1"
-url:                "https://sustainoss.org"
+url:                "https://funmolsim2019.netlify.com"
 
 exclude:
   - .sass-cache/
@@ -43,20 +43,11 @@ exclude:
   - README.md
 
 params:
-  github:           "https://github.com/sustainers"
-  slack:            "https://changelog.com/community"
-  twitter:          "https://twitter.com/SustainOSS"
+  github:           "https://github.com/HaoZeke"
   latitude:         51.5286903
   longitude:        -0.1301617
 
 # Social-related stuff
-author:
-  twitter:          "SustainOSS"
-
-twitter:
-  card:             "summary_large_image"
-  username:         "SustainOSS"
-
 logo:               "/assets/img/og-large.png"
 
 # Output

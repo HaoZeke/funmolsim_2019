@@ -1,8 +1,8 @@
 {
-  "name": "sustainers",
+  "name": "funmolsim",
   "version": "1.0.0",
   "private": true,
-  "description": "The sustainoss.org source code",
+  "description": "Fundamentals of Molecular Simulations Workshop Page",
   "scripts": {
     "critical": "critical \"_site/index.html\" --base _site --ignore \":root\" --ignore \"/url(/\" --ignore \"/Emoji/\">_includes/assets/_critical.scss",
     "autoprefixer": "postcss \"_sass/**/*.scss\" --use autoprefixer --syntax postcss-scss --no-map --replace",
@@ -17,14 +17,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sustainers/website.git"
+    "url": "git+https://github.com/HaoZeke/funmolsim_2019.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sustainers/website/issues"
+    "url": "https://github.com/HaoZeke/funmolsim_2019/issues"
   },
-  "homepage": "https://github.com/sustainers/website#readme",
+  "homepage": "https://github.com/HaoZeke/funmolsim_2019#readme",
   "devDependencies": {
     "autoprefixer": "^9.2.1",
     "critical": "^1.3.4",
