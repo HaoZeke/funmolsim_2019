@@ -6,3 +6,4 @@ gem 'jekyll-redirect-from', '~> 0.14.0'
 gem 'jekyll-seo-tag', '~> 2.5.0'
 gem 'jekyll-sitemap', '~> 1.2.0'
 gem "jekyll-assets", group: :jekyll_plugins
+gem "font-awesome-sass", group: :jekyll_plugins
