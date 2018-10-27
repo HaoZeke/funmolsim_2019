@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/haozeke
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://funmolsim2019.netlify.com
+  * I am haozeke (https://keybase.io/haozeke) on keybase.
+  * I have a public key ASD16mK22mUSUpxjZqrfdWQNoaQjf6SH2mhJsmi4B_J2jAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208ed13a74c208e57451702e57550c266f31f877ea9d2786b13e00769e447447d00a",
+      "host": "keybase.io",
+      "kid": "0120f5ea62b6da6512529c6366aadf75640da1a4237fa487da6849b268b807f2768c0a",
+      "uid": "8ca27cf24cf6c9de4076b171e8004019",
+      "username": "haozeke"
+    },
+    "merkle_root": {
+      "ctime": 1540653218,
+      "hash": "da9515f90b0335c4779df29f73aa1f207e655ce34823f97189ee1b6e78f5bef33ee36a13323be7295cd71b513775bba77791f0019f52c0c92e2ba22c0b8e63a2",
+      "hash_meta": "cb19126231fe2cdd7a66eabfa47a2b17f2c34351da16844612ce125b9502c659",
+      "seqno": 3858311
+    },
+    "service": {
+      "entropy": "gbQPsY8BMFdClgJIW1PPgDO2",
+      "hostname": "funmolsim2019.netlify.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.8.0"
+  },
+  "ctime": 1540653347,
+  "expire_in": 504576000,
+  "prev": "2bbf0d5447f00b9ca7a126f9ba1f611f7a125d31aa37c5883d909a5f3a09483b",
+  "seqno": 64,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg9epittplElKcY2aq33VkDaGkI3+kh9poSbJouAfydowKp3BheWxvYWTESpcCQMQgK78NVEfwC5ynoSb5uh9hH3oSXTGqN8WIPZCaXzoJSDvEIJWoxNgGXAYRct8Ekn8jcjEAzxU/RhPEz86w9EN+Ir7KAgHCo3NpZ8RA2PGtsJOVpCbuZDLvUo/ZumZjXbIHw8ppS2vtu3odvMs2lYY719bLpZei9ESIEmItkayv9Z8e8MYp0px/PYXxC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOpmctFTQ91K1uS488jt/s5QEMF4BGbcJ7ABYEXRiTC8o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/haozeke
+
+==================================================================
