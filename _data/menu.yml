@@ -3,11 +3,13 @@
 - name: navbar-left
   pages:
     - title: Home
+    - title: About
     - title: Seats
     - title: Venue
 
 - name: navbar-right
   pages:
+    - title: Speakers
     - title: Schedule
     - title: Sponsors
     - title: Contact
@@ -16,6 +18,7 @@
   pages:
     - title: Seats
     - title: Venue
+    - title: Speakers
     - title: Schedule
     - title: Sponsors
     - title: About
