@@ -78,6 +78,8 @@ $background_color_1: white;
 }
 .card-img-top {
     width: 100%;
+@media only screen and (min-width: 600px) {
     height: 15vw;
     object-fit: cover;
+}
 }
