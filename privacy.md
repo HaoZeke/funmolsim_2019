@@ -23,15 +23,9 @@ for the following purposes and using the following services:
 
 ### Traffic optimization and distribution
 
-* CloudFlare
+* Netlify
     * Personal Data: Cookies and various types of Data as specified in the
-      [privacy policy](https://www.cloudflare.com/security-policy/) of the service
-
-### Tickets
-
-* Open Collective
-    * Personal Data: Cookies and various types of Data as specified in the
-      privacy policy of the service
+      [privacy policy](https://www.netlify.com/privacy) of the service
 
 ### Forms
 
