@@ -1,20 +1,3 @@
-GIT
-  remote: https://github.com/envygeeks/jekyll-assets
-  revision: fcb16d4ee1a32fe5a0769b4db98712095061917d
-  specs:
-    jekyll-assets (4.0.0.alpha)
-      activesupport (~> 5.0)
-      execjs (~> 2.7)
-      extras (~> 0.2)
-      fastimage (~> 2.0, >= 1.8)
-      jekyll (>= 3.5, < 4.0)
-      jekyll-sanity (~> 1.2)
-      liquid-tag-parser (~> 1.0)
-      nokogiri (~> 1.8)
-      pathutil (~> 0.16)
-      sassc (~> 1.11)
-      sprockets (~> 4.0.beta7)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -67,6 +50,17 @@ GEM
       pathutil (~> 0.9)
       rouge (>= 1.7, < 4)
       safe_yaml (~> 1.0)
+    jekyll-assets (3.0.11)
+      activesupport (~> 5.0)
+      execjs (~> 2.7)
+      extras (~> 0.2)
+      fastimage (~> 2.0, >= 1.8)
+      jekyll (>= 3.5, < 4.0)
+      jekyll-sanity (~> 1.2)
+      liquid-tag-parser (~> 1.0)
+      nokogiri (~> 1.8)
+      pathutil (~> 0.16)
+      sprockets (>= 3.3, < 4.1.beta)
     jekyll-redirect-from (0.14.0)
       jekyll (~> 3.3)
     jekyll-sanity (1.2.0)
@@ -111,10 +105,7 @@ GEM
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
-    sassc (1.12.1)
-      ffi (~> 1.9.6)
-      sass (>= 3.3.0)
-    sprockets (4.0.0.beta8)
+    sprockets (3.7.2)
       concurrent-ruby (~> 1.0)
       rack (> 1, < 3)
     thread_safe (0.3.6)
@@ -131,7 +122,7 @@ PLATFORMS
 DEPENDENCIES
   html-proofer (~> 3.9.1)
   jekyll (~> 3.8.4)
-  jekyll-assets!
+  jekyll-assets
   jekyll-redirect-from (~> 0.14.0)
   jekyll-seo-tag (~> 2.5.0)
   jekyll-sitemap (~> 1.2.0)

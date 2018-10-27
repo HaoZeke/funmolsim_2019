@@ -5,4 +5,4 @@ gem 'jekyll', '~> 3.8.4'
 gem 'jekyll-redirect-from', '~> 0.14.0'
 gem 'jekyll-seo-tag', '~> 2.5.0'
 gem 'jekyll-sitemap', '~> 1.2.0'
-gem "jekyll-assets", git: "https://github.com/envygeeks/jekyll-assets", group: :jekyll_plugins
+gem "jekyll-assets", group: :jekyll_plugins
