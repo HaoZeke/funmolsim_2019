@@ -15,7 +15,7 @@ think about the sustainability of open source software.
 After the event, a [report](/assets/pdf/SustainOSS-west-2017-report.pdf) was written and a definition
 was born, "_sustainer—the individual or organization who is concerned with the fragile state and future
 of highly-used and impactful open source projects_". If that sounds like something you identify with,
-you should [join us](/tickets/).
+you should [join us](/seats/).
 
 Sustain events are led by a facilitator. There are no keynotes, talks, or sponsor demos.
 Your undivided attention is **required**. Phones and laptops should not be used throughout the day
