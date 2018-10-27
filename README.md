@@ -1,6 +1,8 @@
-# SustainOSS.org Website
+# FunMolSim 2019 Website
 
-[![Linux Build Status](https://img.shields.io/travis/sustainers/website/master.svg?label=Linux%20build)](https://travis-ci.org/sustainers/website)
+This is a fork of [the sustainoss repo](https://github.com/sustainers/website).
+There is literally no reason to be reading this. Just modifying this in an hour
+for a short course held at IIT Kanpur.
 
 ## Getting started
 
