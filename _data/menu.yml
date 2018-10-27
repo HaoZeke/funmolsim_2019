@@ -3,7 +3,7 @@
 - name: navbar-left
   pages:
     - title: Home
-    - title: Tickets
+    - title: Seats
     - title: Venue
 
 - name: navbar-right
@@ -14,7 +14,7 @@
 
 - name: footer
   pages:
-    - title: Tickets
+    - title: Seats
     - title: Venue
     - title: Schedule
     - title: Sponsors
