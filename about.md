@@ -5,27 +5,31 @@ slug: about
 ---
 
 # About FunMolSim 2019
-
 Molecular simulation is a powerful tool to investigate the thermodynamic and
-transport properties of a variety of systems. A broad class of scientific
-phenomena can be explored and understood from a molecular level and is also
-reflected in the increased number of publications in this area, by many folds,
-in recent years. The advances in computing technology, on the other hand, have
-also enabled us to solve a wide range of complex problems. 
+transport properties of a variety of systems. A wide class of scientific
+phenomena can be explored and understood from a molecular level. The advances in
+computing technology have also enabled us to solve a wide range of complex
+problems. The objective of this workshop is to expose the students and
+researchers to various molecular simulation techniques with special emphasis on
+engineering applications. The school particularly is targeted for graduate
+students, post-doctoral students, young lecturers, and assistant professors. The
+lectures will enable the participants to learn the fundamental concepts of
+molecular simulations and its applications in solving a wide range of
+engineering problems.
 
-The objective of this workshop is to expose the students and researchers to
-various molecular simulation techniques with particular emphasis on engineering
-applications. The workshop mainly is targeted for assistant professors, PhD
-Scholars, Post-doctoral fellows and master students. The lectures will enable
-the participants to learn the fundamental concepts of molecular simulations and
-its applications in solving a wide range of engineering problems.
+ 
+The following topics will be covered in the workshop:
 
-
-This QIP course on Fundamentals of Molecular Simulations is aimed at sharing the
-pedagogical and research procedures employed at different IITs and IISc. The
-workshop comprising of lectures and lab session shall give the participants of
-learning, teaching and doing research and development and hopefully aid them in
-establishing a similar procedure at their home institutes.
+1. Introduction to statistical mechanics, statistical ensembles, intermolecular potentials
+2. Basics of molecular dynamics simulations, the extension to various ensembles.
+3. Introduction to Monte Carlo simulations
+4. Efficient calculation of phase equilibria of pure fluids and mixtures using Gibbs ensemble and extended ensemble simulations
+5. Transition Matrix Monte Carlo simulation for phase diagram, GCMC simulation for adsorption/desorption of gases/liquid in porous materials.
+6. Advanced free-energy methods, umbrella sampling, metadynamics
+7. Coarse-graining methods for soft matter simulations
+8. Introduction to DPD and Brownian dynamics simulations 
+9. Extensive tutorials on writing molecular simulation codes
+10. Hands-on experience on molecular simulations s/w such as GROMACS, LAMMPS, TOWHEE
 
 <!-- ## What are Molecular Dynamics? -->
 <!-- [Molecular -->
