@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="124.446"
+   height="55"
+   viewBox="0 0 32.926 14.552"
+   version="1.1"
+   id="svg84"
+   sodipodi:docname="funmolsim2019_horizontal.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs88" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1916"
+     inkscape:window-height="1027"
+     id="namedview86"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:zoom="11.089147"
+     inkscape:cx="72.234659"
+     inkscape:cy="23.08665"
+     inkscape:window-x="0"
+     inkscape:window-y="51"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g82" />
+  <g
+     id="g82"
+     transform="translate(0.73964537,-0.21473575)"
+     style="fill:#ffffff">
+    <path
+       d="M 3.006,4.36 A 0.25,0.25 0 0 0 3.297,4.401 3.24,3.24 0 0 1 6.148,4.309 0.244,0.244 0 0 0 6.422,4.259 l 0.55,-0.55 A 0.246,0.246 0 0 0 6.914,3.317 4.485,4.485 0 0 0 4.818,2.797 c -0.842,0 -1.63,0.235 -2.303,0.64 A 0.248,0.248 0 0 0 2.467,3.823 Z m 5.266,0.567 -0.54,0.54 a 0.25,0.25 0 0 0 -0.041,0.29 3.243,3.243 0 0 1 0,3.041 0.25,0.25 0 0 0 0.042,0.29 l 0.54,0.54 C 8.384,9.74 8.574,9.718 8.658,9.58 a 4.445,4.445 0 0 0 0,-4.6 0.244,0.244 0 0 0 -0.386,-0.053 z"
+       class="st1"
+       id="path72"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 6.422,10.29 A 0.244,0.244 0 0 0 6.148,10.24 3.244,3.244 0 0 1 3.298,10.148 0.25,0.25 0 0 0 3.006,10.19 l -0.539,0.54 a 0.248,0.248 0 0 0 0.048,0.385 c 0.673,0.405 1.458,0.64 2.303,0.64 0.757,0 1.47,-0.19 2.096,-0.523 a 0.246,0.246 0 0 0 0.059,-0.391 z"
+       class="st0"
+       id="path74"
+       inkscape:connector-curvature="0" />
+    <path
+       d="M 1.802,8.879 C 1.874278,8.8070844 1.8942187,8.6978092 1.852,8.605 1.4717646,7.7590981 1.4717646,6.7909019 1.852,5.945 1.8946893,5.8519229 1.8747203,5.7420935 1.802,5.67 L 1.254,5.122 C 1.1366327,5.0054843 0.94003037,5.0356535 0.863,5.182 c -0.69795577,1.3094694 -0.69795577,2.8805306 0,4.19 0.0778113,0.1456952 0.2742458,0.1748338 0.391,0.058 z"
+       class="st1"
+       id="path76"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       d="M 6.88,7.937 7.045,8.2 C 7.079032,8.255972 7.1627259,8.247602 7.185,8.186 7.217202,8.097023 7.245233,8.0065914 7.269,7.915 7.279872,7.866317 7.242883,7.82008 7.193,7.82 H 6.947 C 6.8855587,7.8175347 6.8467779,7.8852564 6.88,7.937 Z M 2.512,8.253 2.738,7.945 C 2.778,7.895 2.738,7.82 2.674,7.82 H 2.352 C 2.301074,7.8195744 2.26377,7.86782 2.277,7.917 2.305,8.027 2.338,8.133 2.377,8.237 2.4,8.292 2.475,8.3 2.512,8.253 Z"
+       class="st0"
+       id="path78"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccscccc" />
+    <path
+       d="m 3.716,6.612 a 0.066,0.066 0 0 1 0.104,0 L 4.284,7.244 A 0.065,0.065 0 0 0 4.39,7.241 L 5.36,5.707 a 0.065,0.065 0 0 1 0.109,0 l 1.47,2.322 H 7.241 C 7.333,7.719 7.367,7.386 7.333,7.043 A 2.572,2.572 0 1 0 2.308,8.033 L 2.679,8.032 Z"
+       class="st0"
+       id="path80"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.28882504px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458183"
+       x="20.110115"
+       y="11.975171"
+       id="text94"><tspan
+         sodipodi:role="line"
+         x="20.110115"
+         y="21.963135"
+         style="font-size:2.82220602px;line-height:0;text-align:start;word-spacing:-1.65628219px;text-anchor:start;stroke-width:0.26458183"
+         id="tspan98" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.28882504px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458183"
+       x="11.547937"
+       y="7.3702822"
+       id="text107"><tspan
+         sodipodi:role="line"
+         x="11.547937"
+         y="7.3702822"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17498183px;line-height:0;font-family:'Hoefler Text Black';-inkscape-font-specification:'Hoefler Text Black, ';letter-spacing:-0.058208px;fill:#ffffff;stroke-width:0.26458183"
+         id="tspan113">FunMolSim</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.28882504px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458183"
+       x="14.816692"
+       y="11.712715"
+       id="text119"><tspan
+         sodipodi:role="line"
+         id="tspan117"
+         x="14.816692"
+         y="11.712715"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23330927px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic';fill:#ffffff;stroke-width:0.26458183">2019</tspan></text>
+  </g>
+</svg>
