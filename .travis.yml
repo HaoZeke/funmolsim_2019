@@ -21,15 +21,17 @@ env:
 before_install:
   - export NOKOGIRI_USE_SYSTEM_LIBRARIES=true
   - rvm use $RUBY_VERSION --install --binary --fuzzy
+  - curl -o- -L https://yarnpkg.com/install.sh | bash -s -- --version 1.10.1
+  - export PATH=$HOME/.yarn/bin:$PATH
 
 install:
-  - npm ci
+  - yarn
   - bundle install --deployment --jobs=3 --retry=3 --clean
 
 script:
   - bundle exec jekyll build
   - bundle exec htmlproofer _site/ --check-external-hash --check-favicon --check-html --check-img-http --check-opengraph --empty-alt-ignore --enforce-https --report-missing-names --report-script-embeds --internal-domains funmolsim2019.netlify.com
-  - npm test
+  - yarn test
 
 matrix:
   fast_finish: true
@@ -38,6 +40,7 @@ cache:
   directories:
     - "$HOME/.npm"
     - vendor/bundle
+  yarn: true
 
 notifications:
   email: false
