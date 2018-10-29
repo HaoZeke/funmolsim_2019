@@ -18,10 +18,10 @@ Room). The Symposium will be held at the Outreach Auditorium.
 
 The nearest station is Kanpur Central which is 15 km away from the campus. From
 station, Cars, Auto-ricksaws are availble round the clock to IITK Campus.
-Approx. auto fare ₹ 160.
+Approx. auto fare ₹ 260.
 
 ## To reach IIT Kanpur by Air
 
 The nearest airport is Chaudhary Charan Singh Airport, Lucknow, which is 90km
 away from the campus. Taxi will take around two hours to reach campus. Approx
-taxi fare ₹ 1300.
+taxi fare ₹ 2300.
