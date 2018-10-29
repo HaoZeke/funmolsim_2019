@@ -3,22 +3,28 @@ layout: tickets
 title: Seats
 slug: seats
 ---
-
 <div class="container">
-<h1 class="font-weight-bold text-white text-center"> Registration </h1>
+    <h1 class="font-weight-bold text-white text-center">
+    Registration</h1>
     <div class="row justify-content-center pt-4">
         <div class="col-12 col-md-8">
             <div class="media align-items-center">
-                <img class="mr-3 img-fluid d-block rounded-circle" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIO26L4vBKPnQ--_Xm9gNnGWpzLkjho6nzZOvw4tTVThMbcjhu" alt="Mikeal Rogers Avatar" width="100" height="100">
+                <img class="mr-3 img-fluid d-block rounded-circle"
+                src=
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIO26L4vBKPnQ--_Xm9gNnGWpzLkjho6nzZOvw4tTVThMbcjhu"
+                alt="Mikeal Rogers Avatar" width="100" height=
+                "100">
                 <div class="media-body">
-                    <strong>Thirty seats are self financed</strong><br/>
-                    <strong> Thirty seats are financed by QIP and are on a first come first served basis.</strong>
-                    The QIP seats are for faculty of institutions.
+                    <strong>Thirty seats are self
+                    financed</strong><br>
+                    <strong>Thirty seats are financed by QIP and
+                    are on a first come first served
+                    basis.</strong> The QIP seats are for faculty
+                    of institutions.
                 </div>
             </div>
         </div>
     </div>
-
 </div>
 <!-- <div class="container-fluid bg-darkblue">
      <div id="tickets-carousel" class="py-4 py-lg-5 tickets-carousel">
@@ -44,182 +50,125 @@ slug: seats
      </a>
      </div>
      </div>
-     </div> -->
-<div class="container-fluid bg-darkblue">
-<h1 class="font-weight-bold text-white text-center"> QIP Funded</h1>
-<div markdown="1">
-## For Faculty
-- Under the QIP program, faculty
-</div>
-</div>
+     </div>  -->
 
 <div id="generic_price_table">
-<section class="ticket-section">
+    <section class="ticket-section">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
                     <!--PRICE HEADING START-->
                     <div class="price-heading">
                         <h1>Self Financed Costs</h1>
-                    </div>
-                    <!--//PRICE HEADING END-->
+                    </div><!--//PRICE HEADING END-->
                 </div>
             </div>
         </div>
         <div class="container">
-
             <!--BLOCK ROW START-->
             <div class="row">
                 <div class="col-md-4">
-
                     <!--PRICE CONTENT START-->
                     <div class="generic_content clearfix">
-
                         <!--HEAD PRICE DETAIL START-->
                         <div class="generic_head_price clearfix">
-
                             <!--HEAD CONTENT START-->
-                            <div class="generic_head_content clearfix">
-
+                            <div class=
+                            "generic_head_content clearfix">
                                 <!--HEAD START-->
                                 <div class="head_bg"></div>
                                 <div class="head">
                                     <span>Industry</span>
-                                </div>
-                                <!--//HEAD END-->
-
-                            </div>
-                            <!--//HEAD CONTENT END-->
-
+                                </div><!--//HEAD END-->
+                            </div><!--//HEAD CONTENT END-->
                             <!--PRICE START-->
-                            <div class="generic_price_tag clearfix">
-                                <span class="price">
-                                    <span class="sign">₹</span>
-                                    <span class="currency">25,000</span>
-                                </span>
-                            </div>
-                            <!--//PRICE END-->
-
-                        </div>
-                        <!--//HEAD PRICE DETAIL END-->
-
+                            <div class=
+                            "generic_price_tag clearfix">
+                                <span class="price"><span class=
+                                "sign">₹</span> <span class=
+                                "currency">25,000</span></span>
+                            </div><!--//PRICE END-->
+                        </div><!--//HEAD PRICE DETAIL END-->
                         <!--FEATURE LIST START-->
                         <div class="generic_feature_list">
                             <ul>
                                 <li>Accomodation</li>
                                 <li>Food</li>
                             </ul>
-                        </div>
-                        <!--//FEATURE LIST END-->
-
-                    </div>
-                    <!--//PRICE CONTENT END-->
-
+                        </div><!--//FEATURE LIST END-->
+                    </div><!--//PRICE CONTENT END-->
                 </div>
                 <div class="col-md-4">
-
                     <!--PRICE CONTENT START-->
                     <div class="generic_content clearfix">
-
                         <!--HEAD PRICE DETAIL START-->
                         <div class="generic_head_price clearfix">
-
                             <!--HEAD CONTENT START-->
-                            <div class="generic_head_content clearfix">
-
+                            <div class=
+                            "generic_head_content clearfix">
                                 <!--HEAD START-->
                                 <div class="head_bg"></div>
                                 <div class="head">
                                     <span>Academicians</span>
-                                </div>
-                                <!--//HEAD END-->
-
-                            </div>
-                            <!--//HEAD CONTENT END-->
-
+                                </div><!--//HEAD END-->
+                            </div><!--//HEAD CONTENT END-->
                             <!--PRICE START-->
-                            <div class="generic_price_tag clearfix">
-                                <span class="price">
-                                    <span class="sign">₹</span>
-                                    <span class="currency">15,000</span>
-                                </span>
-                            </div>
-                            <!--//PRICE END-->
-
-                        </div>
-                        <!--//HEAD PRICE DETAIL END-->
-
+                            <div class=
+                            "generic_price_tag clearfix">
+                                <span class="price"><span class=
+                                "sign">₹</span> <span class=
+                                "currency">15,000</span></span>
+                            </div><!--//PRICE END-->
+                        </div><!--//HEAD PRICE DETAIL END-->
                         <!--FEATURE LIST START-->
                         <div class="generic_feature_list">
                             <ul>
                                 <li>Accomodation</li>
                                 <li>Food</li>
                             </ul>
-                        </div>
-                        <!--//FEATURE LIST END-->
-
-                    </div>
-                    <!--//PRICE CONTENT END-->
-
+                        </div><!--//FEATURE LIST END-->
+                    </div><!--//PRICE CONTENT END-->
                 </div>
-
                 <div class="col-md-4">
-
                     <!--PRICE CONTENT START-->
                     <div class="generic_content clearfix">
-
                         <!--HEAD PRICE DETAIL START-->
                         <div class="generic_head_price clearfix">
-
                             <!--HEAD CONTENT START-->
-                            <div class="generic_head_content clearfix">
-
+                            <div class=
+                            "generic_head_content clearfix">
                                 <!--HEAD START-->
                                 <div class="head_bg"></div>
                                 <div class="head">
                                     <span>Students</span>
-                                </div>
-                                <!--//HEAD END-->
-
-                            </div>
-                            <!--//HEAD CONTENT END-->
-
+                                </div><!--//HEAD END-->
+                            </div><!--//HEAD CONTENT END-->
                             <!--PRICE START-->
-                            <div class="generic_price_tag clearfix">
-                                <span class="price">
-                                    <span class="sign">₹</span>
-                                    <span class="currency">10,000</span>
-                                </span>
-                            </div>
-                            <!--//PRICE END-->
-
-                        </div>
-                        <!--//HEAD PRICE DETAIL END-->
-
+                            <div class=
+                            "generic_price_tag clearfix">
+                                <span class="price"><span class=
+                                "sign">₹</span> <span class=
+                                "currency">10,000</span></span>
+                            </div><!--//PRICE END-->
+                        </div><!--//HEAD PRICE DETAIL END-->
                         <!--FEATURE LIST START-->
                         <div class="generic_feature_list">
                             <ul>
                                 <li>Accomodation</li>
                                 <li>Food</li>
                             </ul>
-                        </div>
-                        <!--//FEATURE LIST END-->
-
-                    </div>
-                    <!--//PRICE CONTENT END-->
-
-                </div>
-
+                        </div><!--//FEATURE LIST END-->
+                    </div><!--//PRICE CONTENT END-->
                 </div>
             </div>
-            <!--//BLOCK ROW END-->
-
-    <div class="row justify-content-center pt-5">
-        <div class="col-12 col-md-6">
-            <a class="btn btn-lg btn-info btn-round mt-3 mt-sm-0 mx-3" href="" rel="noopener" target="_blank">Reserve a seat</a>
-        </div>
-    </div>
+        </div><!--//BLOCK ROW END-->
+        <div class="row justify-content-center pt-5">
+            <div class="col-12 col-md-6">
+                <a class=
+                "btn btn-lg btn-info btn-round mt-3 mt-sm-0 mx-3"
+                href="" rel="noopener" target="_blank">Reserve a
+                seat</a>
+            </div>
         </div>
     </section>
-
 </div>
