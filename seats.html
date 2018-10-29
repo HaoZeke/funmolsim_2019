@@ -60,11 +60,13 @@ slug: seats
                     <!--PRICE HEADING START-->
                     <div class="price-heading">
                         <h1>Registration Fees</h1>
+<div class="alert alert-warning">
+    <strong>Warning:</strong> Please address all queries regarding QIP to <a href="http://www.iitk.ac.in/qip/about-us/head-cdte">the relevant authority.</a>
+</div>
                         <div class="bg-info m-3">
 <div class="alert alert-primary">
   <strong>Note:</strong> For updates sign up for the newsletter.
             {%- include home/newsletter.html -%}
-
 </div>
                         </div>
                     </div><!--//PRICE HEADING END-->
@@ -103,7 +105,7 @@ slug: seats
 
                             <ul>
 {% for item in price.notes %}
-    <li>{{ item }}</li>
+    <li class="text-justify">{{ item }}</li>
 {% endfor %}
                             </ul>
                         </div><!--//FEATURE LIST END-->
