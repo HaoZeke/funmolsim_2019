@@ -39,6 +39,7 @@ if you need help.
 
 [MIT](LICENSE) © 2018 Justin Dorfman and
 [Contributors](https://github.com/sustainers/website/graphs/contributors).
+[MIT](LICENSE) © 2018-Present Rohit Goswami
 
 If you contribute to this repository, you are agreeing to the License terms and
 agreeing that an MIT license is appropriate for your contributions.
