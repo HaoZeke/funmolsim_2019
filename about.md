@@ -6,12 +6,26 @@ slug: about
 
 # About FunMolSim 2019
 
+Molecular simulation is a powerful tool to investigate the thermodynamic and
+transport properties of a variety of systems. A broad class of scientific
+phenomena can be explored and understood from a molecular level and is also
+reflected in the increased number of publications in this area, by many folds,
+in recent years. The advances in computing technology, on the other hand, have
+also enabled us to solve a wide range of complex problems. 
+
 The objective of this workshop is to expose the students and researchers to
-various molecular simulation techniques with special emphasis on engineering
-applications. The school particularly is targeted for graduate students,
-post-doctoral students, young lecturers and assistant professors. The lectures
-will enable the participants to learn the fundamental concepts of molecular
-simulations and its applications to solve a wide range of engineering problems.
+various molecular simulation techniques with particular emphasis on engineering
+applications. The workshop mainly is targeted for assistant professors, PhD
+Scholars, Post-doctoral fellows and master students. The lectures will enable
+the participants to learn the fundamental concepts of molecular simulations and
+its applications in solving a wide range of engineering problems.
+
+
+This QIP course on Fundamentals of Molecular Simulations is aimed at sharing the
+pedagogical and research procedures employed at different IITs and IISc. The
+workshop comprising of lectures and lab session shall give the participants of
+learning, teaching and doing research and development and hopefully aid them in
+establishing a similar procedure at their home institutes.
 
 <!-- ## What are Molecular Dynamics? -->
 <!-- [Molecular -->
