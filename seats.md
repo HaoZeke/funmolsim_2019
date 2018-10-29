@@ -20,30 +20,37 @@ slug: seats
     </div>
 
 </div>
-<div class="container-fluid bg-darkblue">
-    <div id="tickets-carousel" class="py-4 py-lg-5 tickets-carousel">
-        <div id="ticketsCarousel" class="carousel slide carousel-show-three py-5">
-            <div class="carousel-inner mx-auto">
-                {%- for image in site.data.carousel -%}
-                <div class="carousel-item justify-content-around{% if forloop.first %} active{% endif %}">
-                    {%- assign temp_str = image | split: "." -%}
-                    {%- assign img_fname = temp_str[0] -%}
-                    {%- assign img_ext = temp_str[1] -%}
+<!-- <div class="container-fluid bg-darkblue">
+     <div id="tickets-carousel" class="py-4 py-lg-5 tickets-carousel">
+     <div id="ticketsCarousel" class="carousel slide carousel-show-three py-5">
+     <div class="carousel-inner mx-auto">
+     {%- for image in site.data.carousel -%}
+     <div class="carousel-item justify-content-around{% if forloop.first %} active{% endif %}">
+     {%- assign temp_str = image | split: "." -%}
+     {%- assign img_fname = temp_str[0] -%}
+     {%- assign img_ext = temp_str[1] -%}
 
-                    <img class="d-block img-fluid mx-auto" src="/assets/img/tickets/{{ img_fname }}.{{ img_ext }}" srcset="/assets/img/tickets/{{ img_fname }}.{{ img_ext }} 1x, /assets/img/tickets/{{ img_fname }}@2x.{{ img_ext }} 2x" alt="" width="400" height="267">
-                </div>
-                {%- endfor -%}
-            </div>
-            <a class="carousel-control-prev" href="#ticketsCarousel" role="button" data-slide="prev">
-                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                <span class="sr-only">Previous</span>
-            </a>
-            <a class="carousel-control-next" href="#ticketsCarousel" role="button" data-slide="next">
-                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="sr-only">Next</span>
-            </a>
-        </div>
-    </div>
+     <img class="d-block img-fluid mx-auto" src="/assets/img/tickets/{{ img_fname }}.{{ img_ext }}" srcset="/assets/img/tickets/{{ img_fname }}.{{ img_ext }} 1x, /assets/img/tickets/{{ img_fname }}@2x.{{ img_ext }} 2x" alt="" width="400" height="267">
+     </div>
+     {%- endfor -%}
+     </div>
+     <a class="carousel-control-prev" href="#ticketsCarousel" role="button" data-slide="prev">
+     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+     <span class="sr-only">Previous</span>
+     </a>
+     <a class="carousel-control-next" href="#ticketsCarousel" role="button" data-slide="next">
+     <span class="carousel-control-next-icon" aria-hidden="true"></span>
+     <span class="sr-only">Next</span>
+     </a>
+     </div>
+     </div>
+     </div> -->
+<div class="container-fluid bg-darkblue">
+<h1 class="font-weight-bold text-white text-center"> QIP Funded</h1>
+<div markdown="1">
+## For Faculty
+- Under the QIP program, faculty
+</div>
 </div>
 
 <div id="generic_price_table">
