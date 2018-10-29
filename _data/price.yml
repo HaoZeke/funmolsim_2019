@@ -1,0 +1,43 @@
+- bracket: Faculty (QIP)
+  num: 1
+  cost: "1000"
+  notes:
+      - The cost is refundable on participation from the parent AICTE institution.
+      - Third AC train fare to and fro the venue via the shortest route will also be reimbursed.
+      - Twin sharing accomodation at the IITK Guest House (Visitor's Hostel)
+      - Food (breakfast, lunch, dinner) will be served in the Guest House
+  form: "https://funmolsim2019.netlify.com"
+
+- bracket: Faculty (Other)
+  num: 2
+  cost: "15,000"
+  notes:
+      - This includes private institutions and R&D Labs
+      - Accomodation is included (twin sharing at IITK Guest House)
+      - Food (breakfast, lunch, dinner) will be served in the Guest House
+      - No travel allowance will be provided
+  form: "https://funmolsim2019.netlify.com"
+
+- bracket: Students (IITK)
+  num: 5
+  notes: No food or accomodation is included
+  cost: "1000"
+  form: "https://funmolsim2019.netlify.com"
+
+- bracket: Students (Other)
+  num: 4
+  notes:
+      - Accomodation will be provided in the IITK hostels
+      - Meals will also be available in the hostels
+      - No travel allowance will be provided
+  cost: "10,000"
+  form: "https://funmolsim2019.netlify.com"
+
+- bracket: Industry
+  num: 3
+  cost: "25,000"
+  notes:
+      - Accomodation is included (twin sharing at IITK Guest House)
+      - Food (breakfast, lunch, dinner) will be served in the Guest House
+      - No travel allowance will be provided
+  form: "https://funmolsim2019.netlify.com"

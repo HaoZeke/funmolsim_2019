@@ -8,7 +8,7 @@
 /* ======================== */
 $color_1: #525252;
 $color_2: #414141;
-$color_3: #a7a7a7;
+$color_3: #000000;
 $color_4: #214759 ;
 $color_5: #fff;
 $color_6: #7885CB;
@@ -435,8 +435,6 @@ body {
 .price-heading {
 	text-align: center;
 	h1 {
-		color: $color_7;
-		margin-top: 2em;
 		padding: 0 0 50px 0;
 	}
 }
@@ -501,4 +499,11 @@ body {
 
 .ticket-section{
     padding-bottom: 2em;
+}
+/*
+ * Row with equal height columns
+ * --------------------------------------------------
+ */
+.row-eq-height {
+  display:         flex;
 }
