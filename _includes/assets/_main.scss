@@ -86,3 +86,27 @@ $background_color_1: white;
     object-fit: cover;
 }
 }
+
+.header-hero {
+    background: url("{{ site.baseurl }}/assets/img/landing-page-bg-min.jpg") no-repeat center center / cover;
+    height: 80vh;
+    min-height: 90vh;
+
+    @media (max-width: 767px) and (orientation: landscape) {
+        min-height: 400px;
+    }
+
+    @media (min-width: 768px) {
+        background-image: url("{{ site.baseurl }}/assets/img/landing-page-bg.jpg");
+    }
+
+    h1 {
+        line-height: $header-hero-line-height;
+    }
+
+    .display-4 {
+        @media (max-width: 767px) {
+            font-size: 3rem;
+        }
+    }
+}

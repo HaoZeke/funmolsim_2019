@@ -16,10 +16,10 @@
         <link rel="dns-prefetch" href="https://code.jquery.com/">
         <link rel="dns-prefetch" href="https://fonts.googleapis.com/">
 
-        <link rel="preload" href="/assets/img/funmolsim2019_horizontal.svg" as="image">
+        <link rel="preload" href="{{ site.baseurl }}/assets/img/funmolsim2019_horizontal.svg" as="image">
         {%- if page.slug == "home" -%}
-        <link rel="preload" href="/assets/img/landing-page-bg.jpg" as="image" media="(min-width: 768px)">
-        <link rel="preload" href="/assets/img/landing-page-bg-min.jpg" as="image" media="(max-width: 767px)">
+        <link rel="preload" href="{{ site.baseurl }}/assets/img/landing-page-bg.jpg" as="image" media="(min-width: 768px)">
+        <link rel="preload" href="{{ site.baseurl }}/assets/img/landing-page-bg-min.jpg" as="image" media="(max-width: 767px)">
         {%- endif -%}
 
         <style>
@@ -30,12 +30,12 @@
         </style>
 
         <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans" as="style" onload="this.onload=null;this.rel='stylesheet'">
-        <link rel="preload" href="{{ site.data.assets.cookieConsent.css }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <link rel="preload" href="{{ site.baseurl }}{{ site.data.assets.cookieConsent.css }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
         <link rel="preload" href="{{ site.data.assets.bootstrap.css.url }}" as="style" onload="this.onload=null;this.rel='stylesheet'" crossorigin="anonymous">
 
         <noscript>
             <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans">
-            <link rel="stylesheet" href="{{ site.data.assets.cookieConsent.css }}">
+            <link rel="stylesheet" href="{{ site.baseurl }}{{ site.data.assets.cookieConsent.css }}">
             <link rel="stylesheet" href="{{ site.data.assets.bootstrap.css.url }}" crossorigin="anonymous">
         </noscript>
 

@@ -1,12 +1,12 @@
 (function() {
-    var cookieConsentJs = '{{ site.data.assets.cookieConsent.js }}';
+    var cookieConsentJs = '{{ site.baseurl }}{{ site.data.assets.cookieConsent.js }}';
     var jquery = '{{ site.data.assets.jquery.url }}';
     var jqueryIntegrity = '{{ site.data.assets.jquery.integrity }}';
     var bootstrapBundle = '{{ site.data.assets.bootstrap.js.url }}';
     var bootstrapIntegrity = '{{ site.data.assets.bootstrap.js.integrity }}';
 
     {%- if page.slug == 'seats' -%}
-        var ticketsCarousel = '/assets/js/tickets-carousel.js';
+        var ticketsCarousel = '{{ site.baseurl }}/assets/js/tickets-carousel.js';
     {%- endif -%}
 
     {%- assign baseBundleItems = 'jquery, bootstrapBundle' -%}
