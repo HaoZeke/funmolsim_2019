@@ -24,10 +24,10 @@ sass:
   style:            compressed
 
 # server
-baseurl:            "/~jayantks/fms19"
+baseurl:            ""
 port:               8000
 host:               "127.0.0.1"
-url:                "http://home.iitk.ac.in"
+url:                "https://funmolsim2019.netlify.com"
 
 exclude:
   - .sass-cache/
