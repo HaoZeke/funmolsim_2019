@@ -46,7 +46,6 @@ The following topics will be covered in the workshop:
 <!-- determine the properties of such complex systems analytically, so MD is applied -->
 <!-- to these systems to solve this problem by using numerical methods. -->
 
-<!-- {% asset forcebalance.jpg !integrity %} -->
 
 
 <!-- Molecular simulations are a powerful tool to investigate the thermodynamic and -->

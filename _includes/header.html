@@ -16,7 +16,10 @@
         <link rel="dns-prefetch" href="https://code.jquery.com/">
         <link rel="dns-prefetch" href="https://fonts.googleapis.com/">
 
-        <link rel="preload" href="{{ site.baseurl }}/assets/img/funmolsim2019_horizontal.svg" as="image">
+            {%- if page.slug == "speakers" -%}
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.2/css/all.css" integrity="sha384-/rXc/GQVaYpyDdyxK+ecHPVYJSN9bmVFBvjA/9eOB+pb3F2w2N6fc5qB9Ew5yIns" crossorigin="anonymous">
+            {%- endif -%}
+        <link rel="preload" href="{{ site.baseurl }}/assets/img/funmolsim2019_horizontal.png" as="image">
         {%- if page.slug == "home" -%}
         <link rel="preload" href="{{ site.baseurl }}/assets/img/landing-page-bg.jpg" as="image" media="(min-width: 768px)">
         <link rel="preload" href="{{ site.baseurl }}/assets/img/landing-page-bg-min.jpg" as="image" media="(max-width: 767px)">
