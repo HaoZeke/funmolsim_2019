@@ -5,13 +5,13 @@
     var bootstrapBundle = '{{ site.data.assets.bootstrap.js.url }}';
     var bootstrapIntegrity = '{{ site.data.assets.bootstrap.js.integrity }}';
 
-    {%- if page.slug == 'seats' -%}
+    {%- if page.slug == 'register' -%}
         var ticketsCarousel = '{{ site.baseurl }}/assets/js/tickets-carousel.js';
     {%- endif -%}
 
     {%- assign baseBundleItems = 'jquery, bootstrapBundle' -%}
 
-    {%- if page.slug == 'seats' -%}
+    {%- if page.slug == 'register' -%}
         {%- assign bundleItems = baseBundleItems | append: ', ticketsCarousel' -%}
     {%- else -%}
         {%- assign bundleItems = baseBundleItems -%}

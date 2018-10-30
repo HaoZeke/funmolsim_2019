@@ -4,7 +4,7 @@
   pages:
     - title: Home
     - title: About
-    - title: Seats
+    - title: Register
     - title: Venue
 
 - name: navbar-right
@@ -16,7 +16,7 @@
 
 - name: footer
   pages:
-    - title: Seats
+    - title: Register
     - title: Venue
     - title: Speakers
     - title: Schedule

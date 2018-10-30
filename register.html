@@ -1,7 +1,7 @@
 ---
 layout: blank
-title: Seats
-slug: seats
+title: Register
+slug: register
 ---
 <!-- <div class="container"> -->
 <!--     <h1 class="font-weight-bold text-white text-center"> -->
@@ -51,6 +51,28 @@ slug: seats
      </div>
      </div>
      </div>  -->
+<h1 class="text-center">Registration Proceedure</h1>
+<div class="text-justify container">
+    <div class="col-4-md offset-3">
+{% markdown %}
+
+* The registration process will begin on **November 15 2019**
+* For email notifications subscribe at the bottom of this page
+* Payments are facilitated by SBI collect
+* The Course Details and Process are described in the linked PDFs.
+{% endmarkdown %}
+    </div>
+    <div class="row">
+<div class="col-2 offset-3">
+<a class="btn btn-lg btn-danger btn-round mt-3 mt-sm-0" href="{{ site.baseurl }}{% link assets/pdf/funmolsim2019-collectDetails.pdf %}" rel="noopener" target="_blank">
+                         SBI Collect Details</a>
+</div>
+<div class="col-2 offset-2">
+<a class="btn btn-lg btn-info btn-round mt-3 mt-sm-0" href="{{ site.baseurl }}{% link assets/pdf/funmolsim2019-collectProcess.pdf %}" rel="noopener" target="_blank">
+                         SBI Collect Process</a>
+</div>
+</div>
+</div>
 
 <div id="generic_price_table">
     <section class="ticket-section">
@@ -63,12 +85,7 @@ slug: seats
 <div class="alert alert-warning">
     <strong>Warning:</strong> Please address all queries regarding QIP to <a href="http://www.iitk.ac.in/qip/about-us/head-cdte">the relevant authority.</a>
 </div>
-                        <div class="bg-info m-3">
-<div class="alert alert-primary">
-  <strong>Note:</strong> For updates sign up for the newsletter.
-            {%- include home/newsletter.html -%}
-</div>
-                        </div>
+<p> GST is included where applicable. </p>
                     </div><!--//PRICE HEADING END-->
                 </div>
             </div>
@@ -119,3 +136,10 @@ slug: seats
         </div><!--//BLOCK ROW END-->
     </section>
 </div>
+
+                        <div class="bg-info m-3">
+<div class="alert alert-primary text-center">
+  <strong>Note:</strong> For notifications, subscribe below.
+            {%- include home/newsletter.html -%}
+</div>
+                        </div>
