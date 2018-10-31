@@ -6,7 +6,7 @@
       - Third AC train fare to and fro the venue via the shortest route will also be reimbursed
       - Twin sharing accomodation at the IITK Guest House (Visitor's Hostel)
       - Food (breakfast, lunch, dinner) will be served in the Guest House
-  form: "https://funmolsim2019.netlify.com"
+  form: "https://goo.gl/forms/89RzA7VCrbcc1Cdr2"
 
 - bracket: Faculty (Other)
   num: 2
@@ -16,13 +16,13 @@
       - Accomodation is included (twin sharing at IITK Guest House)
       - Food (breakfast, lunch, dinner) will be served in the Guest House
       - No travel allowance will be provided
-  form: "https://funmolsim2019.netlify.com"
+  form: "https://goo.gl/forms/6ZA6cXyKHF9efkLr2"
 
 - bracket: Students (IITK)
   num: 5
   notes: No food or accomodation is included
   cost: "1000"
-  form: "https://funmolsim2019.netlify.com"
+  form: "https://goo.gl/forms/ctsVrp72C6MCqndv1"
 
 - bracket: Students (Other)
   num: 4
@@ -31,7 +31,7 @@
       - Meals will also be available in the hostels
       - No travel allowance will be provided
   cost: "5,000"
-  form: "https://funmolsim2019.netlify.com"
+  form: "https://goo.gl/forms/yJuh1vBQXi1RySLj2"
 
 - bracket: Industry
   num: 3
@@ -40,4 +40,4 @@
       - Accomodation is included (twin sharing at IITK Guest House)
       - Food (breakfast, lunch, dinner) will be served in the Guest House
       - No travel allowance will be provided
-  form: "https://funmolsim2019.netlify.com"
+  form: "https://goo.gl/forms/gbFDVMb9ac3A4HuH2"
