@@ -4,6 +4,11 @@
 .page-about {
     text-align: justify;
 }
+.mb-md-6 {
+@media only screen and (min-width: 600px) {
+    margin-bottom: 6rem;
+}
+}
 
 // Timeline components
 

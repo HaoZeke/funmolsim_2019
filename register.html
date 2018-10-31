@@ -95,9 +95,9 @@ slug: register
             <div class="row row-eq-height">
         {% assign items = site.data.price | sort: 'num' %}
         {% for price in items %}
-                <div class="col-md-4 mb-3">
+                <div class="col-md-4 mb-md-6">
                     <!--PRICE CONTENT START-->
-                    <div class="generic_content clearfix h-100">
+                    <div class="generic_content clearfix">
                         <!--HEAD PRICE DETAIL START-->
                         <div class="generic_head_price clearfix">
                             <!--HEAD CONTENT START-->
@@ -127,10 +127,10 @@ slug: register
                             </ul>
                         </div><!--//FEATURE LIST END-->
                     </div><!--//PRICE CONTENT END-->
-                    <!-- <div class="card-footer text-center">
-                         <a class="btn btn-lg btn-dark btn-round mt-3 mt-sm-0" href="{{ price.form }}" rel="noopener" target="_blank">
+                    <div class="card-footer text-center">
+                <a class="btn btn-lg btn-dark btn-round" href="{{ price.form }}" rel="noopener" target="_blank">
                          Reserve a seat</a>
-                         </div> -->
+                         </div>
                 </div>
   {% endfor %}
         </div><!--//BLOCK ROW END-->

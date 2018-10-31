@@ -48,10 +48,9 @@ body {
 		position: relative;
 		text-align: center;
 		transition: all 0.3s ease-in-out 0s;
-		-moz-transition: all 0.3s ease-in-out 0s;
-		-ms-transition: all 0.3s ease-in-out 0s;
-		-o-transition: all 0.3s ease-in-out 0s;
-		-webkit-transition: all 0.3s ease-in-out 0s;
+@media only screen and (min-width: 600px) {
+    height: 100%;
+}
 		.generic_head_price {
 			background-color: $background_color_4;
 			margin: 0 0 20px 0;
@@ -62,10 +61,6 @@ body {
 					border-width: 90px 1411px 23px 399px;
 					position: absolute;
 					transition: all 0.3s ease-in-out 0s;
-					-moz-transition: all 0.3s ease-in-out 0s;
-					-ms-transition: all 0.3s ease-in-out 0s;
-					-o-transition: all 0.3s ease-in-out 0s;
-					-webkit-transition: all 0.3s ease-in-out 0s;
 				}
 				.head {
 					span {
@@ -83,10 +78,6 @@ body {
 					z-index: 1;
 					h2 {
 						transition: all 0.3s ease-in-out 0s;
-						-moz-transition: all 0.3s ease-in-out 0s;
-						-ms-transition: all 0.3s ease-in-out 0s;
-						-o-transition: all 0.3s ease-in-out 0s;
-						-webkit-transition: all 0.3s ease-in-out 0s;
 					}
 				}
 				margin: 0 0 50px 0;
@@ -149,10 +140,6 @@ body {
 						background-color: $background_color_5;
 						border-left: 5px solid $color_4;
 						transition: all 0.3s ease-in-out 0s;
-						-moz-transition: all 0.3s ease-in-out 0s;
-						-ms-transition: all 0.3s ease-in-out 0s;
-						-o-transition: all 0.3s ease-in-out 0s;
-						-webkit-transition: all 0.3s ease-in-out 0s;
 					}
 					.fa {
 						padding: 0 10px;
@@ -168,10 +155,6 @@ body {
 				border: 1px solid $color_4;
 				color: $color_4;
 				border-radius: 50px;
-				-moz-border-radius: 50px;
-				-ms-border-radius: 50px;
-				-o-border-radius: 50px;
-				-webkit-border-radius: 50px;
 				display: inline-block;
 				font-family: $font_family_3;
 				font-size: 18px;
@@ -180,10 +163,6 @@ body {
 				text-decoration: none;
 				text-transform: uppercase;
 				transition: all 0.3s ease-in-out 0s;
-				-moz-transition: all 0.3s ease-in-out 0s;
-				-ms-transition: all 0.3s ease-in-out 0s;
-				-o-transition: all 0.3s ease-in-out 0s;
-				-webkit-transition: all 0.3s ease-in-out 0s;
 			}
 			margin: 20px 0 32px;
 		}
@@ -194,10 +173,6 @@ body {
 						border-color: $border_color_2;
 						color: $color_5;
 						transition: all 0.3s ease-in-out 0s;
-						-moz-transition: all 0.3s ease-in-out 0s;
-						-ms-transition: all 0.3s ease-in-out 0s;
-						-o-transition: all 0.3s ease-in-out 0s;
-						-webkit-transition: all 0.3s ease-in-out 0s;
 					}
 					.head {
 						span {
@@ -205,10 +180,6 @@ body {
 						}
 						h2 {
 							transition: all 0.3s ease-in-out 0s;
-							-moz-transition: all 0.3s ease-in-out 0s;
-							-ms-transition: all 0.3s ease-in-out 0s;
-							-o-transition: all 0.3s ease-in-out 0s;
-							-webkit-transition: all 0.3s ease-in-out 0s;
 						}
 					}
 				}
@@ -218,31 +189,15 @@ body {
 					background-color: $background_color_6;
 					color: $color_5;
 					transition: all 0.3s ease-in-out 0s;
-					-moz-transition: all 0.3s ease-in-out 0s;
-					-ms-transition: all 0.3s ease-in-out 0s;
-					-o-transition: all 0.3s ease-in-out 0s;
-					-webkit-transition: all 0.3s ease-in-out 0s;
 				}
 			}
 			transition: all 0.3s ease-in-out 0s;
-			-moz-transition: all 0.3s ease-in-out 0s;
-			-ms-transition: all 0.3s ease-in-out 0s;
-			-o-transition: all 0.3s ease-in-out 0s;
-			-webkit-transition: all 0.3s ease-in-out 0s;
 			.price {
 				transition: all 0.3s ease-in-out 0s;
-				-moz-transition: all 0.3s ease-in-out 0s;
-				-ms-transition: all 0.3s ease-in-out 0s;
-				-o-transition: all 0.3s ease-in-out 0s;
-				-webkit-transition: all 0.3s ease-in-out 0s;
 			}
 		}
 		.price {
 			transition: all 0.3s ease-in-out 0s;
-			-moz-transition: all 0.3s ease-in-out 0s;
-			-ms-transition: all 0.3s ease-in-out 0s;
-			-o-transition: all 0.3s ease-in-out 0s;
-			-webkit-transition: all 0.3s ease-in-out 0s;
 		}
 	}
 	.generic_content.active {
@@ -476,28 +431,7 @@ body {
 		text-decoration: none;
 	}
 }
-@media (max-width: 767px) {
-	#generic_price_table {
-		.generic_content {
-			margin-bottom: 75px;
-		}
-	}
-}
-@media (min-width: 768px) and (max-width: 991px) {
-	#generic_price_table {
-		.col-md-3 {
-			float: left;
-			width: 50%;
-		}
-		.col-md-4 {
-			float: left;
-			width: 50%;
-		}
-		.generic_content {
-			margin-bottom: 75px;
-		}
-	}
-}
+
 
 .ticket-section{
     padding-bottom: 2em;
