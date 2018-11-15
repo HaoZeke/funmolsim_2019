@@ -10,6 +10,21 @@
 }
 }
 
+// Responsive Iframes
+
+.iframe-container {
+    overflow: hidden;
+    position: relative;
+}
+
+.iframe-container iframe {
+    border: 0;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
 // Timeline components
 
 ul.timeline {
