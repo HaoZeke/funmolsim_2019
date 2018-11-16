@@ -8,58 +8,43 @@ redirect_from:
 
 <div class="container mt-5 mb-5">
     <h1 class="text-center">Schedule</h1>
-    <p class="text-center">Tea and lunch breaks are implicit in the schedule below.</p>
-	<div class="row">
-		<div class="col">
-			<h4>Day 1 (March 5<sup><small>th</small></sup>)</h4>
-			<ul class="timeline">
-				<li>Introduction to Molecular Simulations, Ensembles and Connection to Thermodynamics </li>
-                <li>Computing Intermolecular Forces</li>
-                <li>Molecular Dynamics: Basic Techniques</li>
-                <li>Tutorial: Molecular Dynamics Simulations Basics</li>
-			</ul>
-		</div>
-		<div class="col">
-			<h4>Day 2 (March 6<sup><small>th</small></sup>)</h4>
-			<ul class="timeline">
-                <li>Extended Systems Molecular Dynamics</li>
-                <li>Tutorial on extended systems MD </li>
-                <li> Visit to HPC Cluster </li>
-                <li>Hands on MD s/w (3 hours) at the HPC Lab</li>
-			</ul>
-		</div>
-	</div>
-	<div class="row">
-		<div class="col">
-			<h4>Day 3 (March 5<sup><small>th</small></sup>)</h4>
-			<ul class="timeline">
-                <li>Monte Carlo: Basic Techniques</li>
-                <li>Monte Carlo Ensembles </li>
-                <li>Tutorial</li>
-                <li>Biased Sampling, GCMC and adsorption isotherm</li>
-                <li>Tutorial </li>
-			</ul>
-		</div>
-		<div class="col">
-			<h4>Day 4 (March 6<sup><small>th</small></sup>)</h4>
-			<ul class="timeline">
-                <li>Phase diagram calculations </li>
-                <li>Tutorial: Phase diagram calculations via MC methods </li>
-                <li>Free-energy methods (Parallel Tempering, Umbrella Sampling, Meta Dynamics)  </li>
-                <li>Tutorial</li>
-			</ul>
-		</div>
-	</div>
-	<div class="row justify-content-center">
-		<div class="col">
-			<h4>Day 5 (March 5<sup><small>th</small></sup>)</h4>
-			<ul class="timeline">
-                <li>Soft Matter Simulations-Monte Carlo, population balance modeling, and Kinetic Monte Carlo</li>
-                <li>Tutorial</li>
-                <li>DPD and Brownian Simulations </li>
-                <li>Tutorial</li>
-                <li>Course Dinner</li>
-			</ul>
-		</div>
-    </div>
+    <div class="row">
+<div class="col-md-2 offset-md-3 mb-2 text-center">
+<a class="btn btn-lg btn-info btn-round" href="{{ site.baseurl }}{% link assets/pdf/FunMolSim2019-Schedule.pdf %}" rel="noopener" target="_blank">
+                         Download (.pdf)</a>
+</div>
+<div class="col-md-2 offset-md-2 mb-3 text-center">
+<a class="btn btn-lg btn-info btn-round" href="https://docs.google.com/document/d/1qJ-pku89_61KoBUWmOLfJ1YO-oJs_HbxvpAe4QE67t4/edit?usp=sharing" rel="noopener" target="_blank">
+                         Google Doc</a>
+</div>
+</div>
+
+    {% for days in site.data.schedule %}
+    {% assign day = days[1] %}
+    {% if forloop.first == true %}
+    <div class="row">
+        {% endif %}
+        <div class="col">
+            <h4>{{ day.date }}</h4>
+                   <ul class="timeline">
+                       {% for instant in day.time %}
+                       <li><time class="text-uppercase font-weight-bold">{{ instant.moment }}</time><br/>
+                           {{ instant.text }}<br/>
+                           {% if instant.instructor %}
+                   <a class="btn btn-info mt-2 btn-sm" href="{{ site.baseurl }}{% link speakers.html %}" rel="noopener" target="_blank">
+                         {{ instant.instructor }}</a>
+                   {% endif %}
+                </li>
+                       {% endfor %}
+                       </ul>
+                   </div>
+                       {% assign test = forloop.index | divided_by: 2.0 %}
+                       {% if test == 1 or test == 2 %}
+                       </div>
+    {% unless forloop.last == true %}
+<div class="row">
+    {% endunless %}
+                       {% endif %}
+        {% endfor %}
+</div>
 </div>
