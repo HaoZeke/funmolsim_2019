@@ -1,0 +1,26 @@
+date: "Day 4 (March 8<sup><small>th</small></sup>)"
+time:
+    - moment: 9.00-10.30 am
+      instructor: Jhumpa Adhikari
+      text: "Phase equilibria Calculations using molecular simulations"
+
+    - moment: 10.30-11.00 am
+      text: Tea Break
+
+    - moment: 11.00-12.30 pm
+      instructor: Jhumpa Adhikari
+      text: "Tutorial: Phase diagram calculations via MC methods"
+
+    - moment: 12.30–2.00 pm
+      text: Lunch Break
+
+    - moment: 2.00-3.30 pm
+      instructor: Jayant Singh
+      text: "Free-energy methods (Parallel tempering, Umbrella sampling, Meta dynamics)"
+
+    - moment: 3.30–4.00 pm
+      text: Tea Break
+
+    - moment: 4.00-5.30 pm
+      instructor: Jayant Singh
+      text: "Tutorial: Calculating free-energy: cases studies"

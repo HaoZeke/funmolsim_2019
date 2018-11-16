@@ -1,0 +1,19 @@
+date: "Day 2 (March 6<sup><small>th</small></sup>)"
+time:
+    - moment: 9.00-10.30 am
+      instructor: Ganapathy Ayappa
+      text: Extended Systems Molecular Dynamics, NVT, NPT
+
+    - moment: 10.30-11.00 am
+      text: Tea Break
+
+    - moment: 11.00-12.30 pm
+      instructor: Ganapathy Ayappa
+      text: "Tutorial: Molecular Dynamics Simulations"
+
+    - moment: 12.30–2.00 pm
+      text: Lunch Break
+
+    - moment: 2.00-5.00 pm
+      instructor: Sandip Khan
+      text: "Lab: Molecular Dynamics Simulations"

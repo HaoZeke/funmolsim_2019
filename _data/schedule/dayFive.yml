@@ -1,0 +1,29 @@
+date: "Day 5 (March 9<sup><small>th</small></sup>)"
+time:
+    - moment: 9.00-10.30 am
+      instructor: Ethayaraja Mani
+      text: "Soft Matter Simulations-Monte Carlo and Kinetic Monte Carlo, Coarse-grain approaches"
+
+    - moment: 10.30-11.00 am
+      text: Tea Break
+
+    - moment: 11.00-12.30 pm
+      instructor: Ethayaraja Mani
+      text: "Tutorial: Hands on KMC simulations of Soft Matter"
+
+    - moment: 12.30–2.00 pm
+      text: Lunch Break
+
+    - moment: 2.00-3.30 pm
+      instructor: Indranil Saha Dalal
+      text: "DPD/Brownian Simulations"
+
+    - moment: 3.30–4.00 pm
+      text: Tea Break
+
+    - moment: 4.00-5.30 pm
+      instructor: Indranil Saha Dalal
+      text: "Tutorial: Hands on DPD and Brownian simulations"
+
+    - moment: 3.30–4.00 pm
+      text: "<strong>Course Dinner</strong>"

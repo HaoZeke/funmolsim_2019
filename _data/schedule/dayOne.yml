@@ -1,0 +1,29 @@
+date: "Day 1 (March 5<sup><small>th</small></sup>)"
+time:
+    - moment: 8.30-9.00 am
+      text: Registration
+
+    - moment: 9.00-10.30 am
+      instructor: Jayant Singh
+      text: Introduction to Molecular Simulations, Ensembles and Connection to Thermodynamics
+
+    - moment: 10.30-11.00 am
+      text: Tea Break
+
+    - moment: 11.00-12.30 pm
+      instructor: Jayant Singh
+      text: Computing Interaction Potential Forces
+
+    - moment: 12.30–2.00 pm
+      text: Lunch Break
+
+    - moment: 2.00-3.30 pm
+      instructor: Pankaj Apte
+      text: Basics of Molecular Dynamics Simulation
+
+    - moment: 3.30–4.00 pm
+      text: Tea Break
+
+    - moment: 4.00-5.30 pm
+      instructor: Pankaj Apte
+      text: "Tutorial: Molecular Dynamics Simulations"
