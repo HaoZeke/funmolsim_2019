@@ -4,38 +4,44 @@
   num: 1
   site: "https://cnsjks.netlify.com"
 
+- name: Suresh Bhatia
+  img: sbhatia.jpeg
+  place: The University of Queensland, Australia
+  num: 2
+  site: "http://researchers.uq.edu.au/researcher/161"
+
 - name: Ganapathy Ayappa
   img: gayap.png
   place: IISc Bangalore
-  num: 2
+  num: 3
   site: "https://kgalabiisc.wixsite.com/kgalab"
 
 - name: Jhumpa Adhikari
   img: jumpa.jpg
   place: IIT Bombay
-  num: 3
+  num: 4
   site: "https://www.che.iitb.ac.in/online/faculty/jhumpa-adhikari"
+
+- name: Pankaj Apte
+  img: papte.jpg
+  place: IIT Kanpur
+  num: 5
+  site: "https://www.iitk.ac.in/che/pa.htm"
 
 - name: Dr. Ethayaraja Mani
   img: emani.jpg
   place: IIT Madras
-  num: 4
+  num: 6
   site: "http://www.che.iitm.ac.in/~ethaya/"
 
 - name: Sandip Khan
   img: skhan.jpg
   place: IIT Patna
-  num: 5
+  num: 7
   site: "https://www.iitp.ac.in/index.php/departments/engineering/chemical-and-biochemical-engineering/people-chemical-and-biochemical-engg/faculty-cbe/1479-sandip-khan.html"
-
-- name: Pankaj Apte
-  img: papte.jpg
-  place: IIT Kanpur
-  num: 6
-  site: "https://www.iitk.ac.in/che/pa.htm"
 
 - name: Indranil Saha Dalal
   img: isd.jpg
   place: IIT Kanpur
-  num: 7
+  num: 8
   site: "https://www.iitk.ac.in/che/isd.htm"
