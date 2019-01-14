@@ -169,10 +169,17 @@ Ten seats are available for the students of IIT Kanpur.
                             </ul>
                         </div><!--//FEATURE LIST END-->
                     </div><!--//PRICE CONTENT END-->
+                    {% if price.num == 4 %}
+                    <div class="card-footer text-center">
+                <a class="btn btn-lg btn-dark btn-round" href="{{ price.form }}" rel="noopener" target="_blank">
+                         Registration Closed</a>
+                         </div>
+                         {% else %}
                     <div class="card-footer text-center">
                 <a class="btn btn-lg btn-dark btn-round" href="{{ price.form }}" rel="noopener" target="_blank">
                          Reserve a seat</a>
                          </div>
+                         {% endif %%}
                 </div>
   {% endfor %}
         </div><!--//BLOCK ROW END-->
