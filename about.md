@@ -12,10 +12,10 @@ computing technology have also enabled us to solve a wide range of complex
 problems. The objective of this workshop is to expose the students and
 researchers to various molecular simulation techniques with special emphasis on
 engineering applications. The school particularly is targeted for graduate
-students, post-doctoral students, young lecturers, and assistant professors. The
-lectures will enable the participants to learn the fundamental concepts of
-molecular simulations and its applications in solving a wide range of
-engineering problems.
+students, post-doctoral students, industrial experts young lecturers, and
+assistant professors. The lectures will enable the participants to learn the
+fundamental concepts of molecular simulations and its applications in solving a
+wide range of engineering problems.
 
  
 The following topics will be covered in the workshop:
