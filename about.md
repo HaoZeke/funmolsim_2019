@@ -9,13 +9,13 @@ Molecular simulation is a powerful tool to investigate the thermodynamic and
 transport properties of a variety of systems. A wide class of scientific
 phenomena can be explored and understood from a molecular level. The advances in
 computing technology have also enabled us to solve a wide range of complex
-problems. The objective of this workshop is to expose the students and
-researchers to various molecular simulation techniques with special emphasis on
-engineering applications. The school particularly is targeted for graduate
-students, post-doctoral students, industrial experts young lecturers, and
-assistant professors. The lectures will enable the participants to learn the
-fundamental concepts of molecular simulations and its applications in solving a
-wide range of engineering problems.
+problems. The objective of this workshop is to introduce the participants to
+various molecular simulation techniques with special emphasis on engineering
+applications. The school particularly is targeted for graduate students,
+post-doctoral students, industrial experts, young lecturers, and assistant
+professors. The lectures will enable the participants to learn the fundamental
+concepts of molecular simulations and its applications in solving a wide range
+of engineering problems.
 
  
 The following topics will be covered in the workshop:
