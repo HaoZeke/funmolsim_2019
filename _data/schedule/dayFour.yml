@@ -24,3 +24,6 @@ time:
     - moment: 4.00-5.30 pm
       instructor: Jayant Singh
       text: "Tutorial: Calculating free-energy: cases studies"
+
+    - moment: 7.30 pm
+      text: "<strong>Course Dinner</strong>"
